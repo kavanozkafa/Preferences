@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="50292" name="ST3 - Mariana" modified="2017-10-02 03:54:56" author="Cameron Kurz">
+    <searchResultIndication color="#FBC95A" />
+    <filteredSearchResultIndication color="#FBC95A" />
+    <occurrenceIndication color="#FBC95A" />
+    <writeOccurrenceIndication color="#FBC95A" />
+    <findScope color="#111111" />
+    <deletionIndication color="#F39244" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#A7ADBB" italic="false" />
+    <multiLineComment color="#A7ADBB" italic="false" />
+    <commentTaskTag color="#A7ADBB" italic="false" />
+    <javadoc color="#A7ADBB" italic="false" />
+    <javadocLink color="#A7ADBB" italic="false" />
+    <javadocTag color="#5DB4B4" italic="false" />
+    <javadocKeyword color="#C693C6" italic="false" />
+    <class color="#6399CE" bold="false" underline="false" strikethrough="false" />
+    <interface color="#C693C3" />
+    <method color="#6399CE" />
+    <methodDeclaration color="#6399CE" />
+    <bracket color="#D8D8D8" />
+    <number color="#F39244" />
+    <string color="#98C793" />
+    <operator color="#FA7951" />
+    <keyword color="#ED5C64" bold="false" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#6399CE" />
+    <localVariable color="#CAD4DB" />
+    <localVariableDeclaration color="#CAD4DB" />
+    <field color="#A4A5B4" />
+    <staticField color="#C693C6" />
+    <staticFinalField color="#C693C6" />
+    <deprecatedMember color="#FFFFFF" underline="false" strikethrough="true" />
+    <enum color="#7FB347" />
+    <inheritedMethod color="#F39244" />
+    <abstractMethod color="#F39244" />
+    <parameterVariable color="#F39244" />
+    <typeArgument color="#6399CE" />
+    <typeParameter color="#6399CE" />
+    <constant color="#C693C3" />
+    <background color="#343D46" />
+    <currentLine color="#4F5B67" />
+    <foreground color="#D8DEE9" />
+    <lineNumber color="#7C8E99" />
+    <selectionBackground color="#000000" />
+    <selectionForeground color="#7C8E99" />
+</colorTheme>
